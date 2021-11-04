@@ -12,15 +12,26 @@
 
 
 body{
-    background-color: bisque;
+    background-color: aliceblue;
 }
 
 
-
+footer{
+    position: absolute;
+    bottom: 0;
+}
 
 /* About Me Page Css styles only */
-
-
+#aboutme{
+    border-bottom: 1px solid black;
+}
+#aboutme-text{
+    color: green;
+    text-shadow: -1px 1px 1px black;
+    border-left: 1px solid black;
+    line-height: 2;
+    
+}
 #about-me-img img{
     height: 85%;
     width: 50%;
@@ -30,11 +41,11 @@ body{
    
 }
 #about-me-img{
-  color: gold;
-   width: 300px; 
+   color: green;
    height: auto;
-   text-shadow: -1px 2px 1px black;
+   text-shadow: -1px 1px 1px black;
    text-align: center;
+   line-height: 2;
 }
 
 
@@ -45,10 +56,5 @@ body{
     box-shadow: -10px 2px 5px black;
 }
 
-/* #rotate-me{
-    transform: rotate(-90deg);
-    
 
-
-} */
 /* Contact Info Page Css styles only  */
