@@ -1,0 +1,54 @@
+/* Global Css styles for all pages */
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+     'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.navbar{
+    margin-bottom: 30px;
+}
+
+
+body{
+    background-color: bisque;
+}
+
+
+
+
+/* About Me Page Css styles only */
+
+
+#about-me-img img{
+    height: 85%;
+    width: 50%;
+    border-radius: 15%;
+    box-shadow: -10px 2px 5px black;
+    
+   
+}
+#about-me-img{
+  color: gold;
+   width: 300px; 
+   height: auto;
+   text-shadow: -1px 2px 1px black;
+   text-align: center;
+}
+
+
+/* Portfolit Page Css styles only */
+
+.card{
+    margin-bottom: 30px;
+    box-shadow: -10px 2px 5px black;
+}
+
+/* #rotate-me{
+    transform: rotate(-90deg);
+    
+
+
+} */
+/* Contact Info Page Css styles only  */
