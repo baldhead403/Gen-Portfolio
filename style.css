@@ -22,9 +22,9 @@ footer{
 }
 
 /* About Me Page Css styles only */
-#aboutme{
+/* #aboutme{
     border-bottom: 1px solid black;
-}
+} */
 #aboutme-text{
     color: green;
     text-shadow: -1px 1px 1px black;
